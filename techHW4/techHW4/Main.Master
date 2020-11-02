@@ -100,7 +100,7 @@
                         <a class="nav-link" href="Medform.aspx">MedForm</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#courses">Our Vets</a>
+                        <a class="nav-link" href="GoodBois.aspx">Good Bois</a>
                     </li>
                 </ul>
             </div>

@@ -1704,7 +1704,7 @@
     <Content Include="fontawesome\webfonts\fa-brands-400.svg" />
     <Content Include="fontawesome\webfonts\fa-regular-400.svg" />
     <Content Include="fontawesome\webfonts\fa-solid-900.svg" />
-    <Content Include="fun.html" />
+    <Content Include="GoodBois.aspx" />
     <Content Include="images\angular.jpg" />
     <Content Include="images\aspnet.jpg" />
     <Content Include="images\bootstrap.png" />
@@ -1720,7 +1720,6 @@
     <Content Include="images\python.jpg" />
     <Content Include="images\typescript.jpg" />
     <Content Include="images\uipath.png" />
-    <Content Include="index.html" />
     <Content Include="MedForm.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -1731,6 +1730,13 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GoodBois.aspx.cs">
+      <DependentUpon>GoodBois.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GoodBois.aspx.designer.cs">
+      <DependentUpon>GoodBois.aspx</DependentUpon>
     </Compile>
     <Compile Include="Main.Master.cs">
       <DependentUpon>Main.Master</DependentUpon>
